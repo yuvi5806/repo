@@ -1,1 +1,6 @@
+vikas<<<<<<< HEAD
 hi
+=======
+hi 
+hello i am vikas from tumkur
+>>>>>>> sdn
